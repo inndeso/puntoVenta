@@ -1,0 +1,20 @@
+# Archivos de compilación
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.log
+
+# Archivos temporales
+.vs/
+*.exe
+*.dll
+*.pdb
+
+# Configuración específica de usuario
+*.userprefs
+
+# Paquetes NuGet descargados (se restauran automáticamente)
+packages/
